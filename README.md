@@ -1,4 +1,5 @@
-
+## 📊 Sorting Visulizer 🕹[Try It Now](https://sonu8085.github.io/Sorting-Visualizer/)
+--------------------
 
 ** Sorting Visualizer is a web app for visualizing a bunch of different sorting algorithms Like_**
 1. Selection Sort.
